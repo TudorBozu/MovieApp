@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Button1">REGISTER</string>
+    <string name="Button2">LOGIN</string>
+    <string name="textregister">Forgot your password?</string>
+    <string name="textregister2">Alredy registered.Login</string>
+    <string name="title_activity_registration_screen">RegistrationScreen</string>
+    <string name="phone">Phone Number</string>
+    <string name="RepetPassword">Confirm Password</string>
+    <string name="Wellcome">WELLCOME IN MOVIETIME</string>
+    <string name="title_activity_movie_screen">MovieScreen</string>
+    <string name="forgotpass">FORGOT PASSWORD SCREEN</string>
+    <string name="forgot">Enter your email address well send you a email to reset your password</string>
+    <string name="Submit">Submit</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>

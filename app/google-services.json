@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652753118497",
+    "project_id": "tokyo-portal-350514",
+    "storage_bucket": "tokyo-portal-350514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652753118497:android:61a43584cfd73ed5e5ca60",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652753118497-41ifi9tg04rgdhc55roj9v568tj8i8mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujXF-kJDNg4eulpxQFzcwgQMwMVTHBSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652753118497-41ifi9tg04rgdhc55roj9v568tj8i8mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
