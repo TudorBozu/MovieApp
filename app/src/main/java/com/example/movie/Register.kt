@@ -3,6 +3,7 @@ package com.example.movie
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
@@ -16,6 +17,7 @@ class Register : AppCompatActivity() {
 
     // Creating firebaseAuth object
     lateinit var auth: FirebaseAuth
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
@@ -38,10 +40,10 @@ class Register : AppCompatActivity() {
         etEmail = findViewById(R.id.edlog)
         etPass = findViewById(R.id.edpaslog)
 
-        // autentificare
+        // auth
         auth = FirebaseAuth.getInstance()
 
-        // button de login
+        // button login
         btnLogin.setOnClickListener {
             login()
         }
@@ -55,13 +57,15 @@ class Register : AppCompatActivity() {
 
         auth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(this) {
             if (it.isSuccessful) {
+                Log.d("testlogin1", "Log successfully")
                 Toast.makeText(this, "Successfully LoggedIn", Toast.LENGTH_SHORT).show()
-                    val intent = Intent (this,MovieScreen1::class.java)
-                    startActivity(intent)
-                    finish()
-            } else
+                val intent = Intent(this, MovieScreen1::class.java)
+                startActivity(intent)
+                finish()
+            } else {
+                Log.d("testlogin2", "Log is faild")
                 Toast.makeText(this, "Log In failed ", Toast.LENGTH_SHORT).show()
+            }
         }
     }
-
 }

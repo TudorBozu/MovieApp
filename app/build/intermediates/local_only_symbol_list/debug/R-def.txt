@@ -33,7 +33,9 @@ id edpaslog
 id imageView
 id imageView2
 id imageView3
+id imageview
 id log
+id recyclevi
 id textView2
 id textView3
 id textView4
@@ -44,8 +46,10 @@ layout activity_main
 layout activity_movie_screen1
 layout activity_register
 layout activity_splash_screen
+layout card_view_design
 mipmap ic_launcher
 mipmap ic_launcher_round
+string API_key
 string Button1
 string Button2
 string RepetPassword

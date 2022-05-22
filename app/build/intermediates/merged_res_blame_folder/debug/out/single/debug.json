@@ -52,6 +52,10 @@
         "source": "D:\\Movie\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "D:\\Movie\\app\\build\\intermediates\\merged_res\\debug\\layout_card_view_design.xml.flat",
+        "source": "D:\\Movie\\app\\src\\main\\res\\layout\\card_view_design.xml"
+    },
+    {
         "merged": "D:\\Movie\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login_screen.xml.flat",
         "source": "D:\\Movie\\app\\src\\main\\res\\layout\\activity_login_screen.xml"
     },

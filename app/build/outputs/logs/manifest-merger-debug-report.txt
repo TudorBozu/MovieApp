@@ -5,9 +5,12 @@ INJECTED from D:\Movie\app\src\main\AndroidManifest.xml:2:1-42:12
 INJECTED from D:\Movie\app\src\main\AndroidManifest.xml:2:1-42:12
 INJECTED from D:\Movie\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Tudor\.gradle\caches\transforms-3\e1e025e728164aaf168255b0206bf92d\transformed\viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1782e78223bad7325b5eea1a14ae1d1\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\Tudor\.gradle\caches\transforms-3\9aef254681d02d3291abdbd6062a3625\transformed\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\1ab065208eeffa4b722f2e26f953b27a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Tudor\.gradle\caches\transforms-3\fada06c12587958d4ca7bd11f408c8ec\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Tudor\.gradle\caches\transforms-3\53035ac2b4af6aef4ead7efe3a8119b0\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Tudor\.gradle\caches\transforms-3\afd1e359d0e488f3b91c17ad640e2192\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] C:\Users\Tudor\.gradle\caches\transforms-3\433a3e107a127c22726a4eaa31aeec18\transformed\firebase-database-ktx-20.0.5\AndroidManifest.xml:2:1-21:12
@@ -22,7 +25,6 @@ MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] C:\Users\Tudo
 MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\30cfb59473941e5c19a4a45f9db2a349\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Tudor\.gradle\caches\transforms-3\7da5f2dd6024e736f15085adc4d49ac9\transformed\firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Tudor\.gradle\caches\transforms-3\95e782707414ffd62e693881b672d2db\transformed\firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1782e78223bad7325b5eea1a14ae1d1\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Tudor\.gradle\caches\transforms-3\90ed74db0c50871d5bdbdb9b8aaf8cc3\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\6f02f49bffed1f4ca0e3c8225a359356\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tudor\.gradle\caches\transforms-3\4334c8984f94629edea8e8fca79fc6f3\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
@@ -54,7 +56,6 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tudor\.gradl
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\7f138d6a2691631eda62f8701d39790b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\9c00d55a67d32f61714cebd962316a91\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\91fad82e1f3ac6898c20b6e533d7902f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\8d2dc24bf557969a620558cb9e7139a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\c7462f7b50bf500abe415e7abb4fe81e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\039c0f07923c8d30bb2207a962aa6e41\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1ca43903249d814d80eb5ab06634349\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -64,7 +65,6 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tudor\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Tudor\.gradle\caches\transforms-3\7f0010d2d61a1164762c137cd9be8f21\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\512be8c316b7d5bf4cee6609a3f35b00\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Tudor\.gradle\caches\transforms-3\a3936ecd902ad0ee3c04e1cf650dcb94\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\1ab065208eeffa4b722f2e26f953b27a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\751f970275850a39f1cf4d08f9593636\transformed\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\d17b484f9609e8229b792b79e057864b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tudor\.gradle\caches\transforms-3\020a5e7901d79e5241d52a0629aa4e11\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
@@ -117,10 +117,10 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:
 		ADDED from D:\Movie\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from D:\Movie\app\src\main\AndroidManifest.xml:7:5-40:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Tudor\.gradle\caches\transforms-3\53035ac2b4af6aef4ead7efe3a8119b0\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Tudor\.gradle\caches\transforms-3\53035ac2b4af6aef4ead7efe3a8119b0\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-database-ktx:20.0.5] C:\Users\Tudor\.gradle\caches\transforms-3\433a3e107a127c22726a4eaa31aeec18\transformed\firebase-database-ktx-20.0.5\AndroidManifest.xml:11:5-19:19
@@ -249,12 +249,18 @@ INJECTED from D:\Movie\app\src\main\AndroidManifest.xml
 INJECTED from D:\Movie\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Tudor\.gradle\caches\transforms-3\e1e025e728164aaf168255b0206bf92d\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Tudor\.gradle\caches\transforms-3\e1e025e728164aaf168255b0206bf92d\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1782e78223bad7325b5eea1a14ae1d1\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1782e78223bad7325b5eea1a14ae1d1\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\Tudor\.gradle\caches\transforms-3\9aef254681d02d3291abdbd6062a3625\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\Tudor\.gradle\caches\transforms-3\9aef254681d02d3291abdbd6062a3625\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\1ab065208eeffa4b722f2e26f953b27a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\1ab065208eeffa4b722f2e26f953b27a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Tudor\.gradle\caches\transforms-3\e193d0b55db75abff5fa3c00ddbfb864\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Tudor\.gradle\caches\transforms-3\fada06c12587958d4ca7bd11f408c8ec\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Tudor\.gradle\caches\transforms-3\fada06c12587958d4ca7bd11f408c8ec\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.6.0] C:\Users\Tudor\.gradle\caches\transforms-3\d2e9124af3db921c355daadf9e591e39\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Tudor\.gradle\caches\transforms-3\53035ac2b4af6aef4ead7efe3a8119b0\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Tudor\.gradle\caches\transforms-3\53035ac2b4af6aef4ead7efe3a8119b0\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Tudor\.gradle\caches\transforms-3\afd1e359d0e488f3b91c17ad640e2192\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
@@ -283,8 +289,6 @@ MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Tudor\.
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Tudor\.gradle\caches\transforms-3\7da5f2dd6024e736f15085adc4d49ac9\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Tudor\.gradle\caches\transforms-3\95e782707414ffd62e693881b672d2db\transformed\firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\Tudor\.gradle\caches\transforms-3\95e782707414ffd62e693881b672d2db\transformed\firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1782e78223bad7325b5eea1a14ae1d1\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\b1782e78223bad7325b5eea1a14ae1d1\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Tudor\.gradle\caches\transforms-3\90ed74db0c50871d5bdbdb9b8aaf8cc3\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Tudor\.gradle\caches\transforms-3\90ed74db0c50871d5bdbdb9b8aaf8cc3\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\6f02f49bffed1f4ca0e3c8225a359356\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
@@ -347,8 +351,6 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tudor\.gr
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\9c00d55a67d32f61714cebd962316a91\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\91fad82e1f3ac6898c20b6e533d7902f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\91fad82e1f3ac6898c20b6e533d7902f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\8d2dc24bf557969a620558cb9e7139a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\8d2dc24bf557969a620558cb9e7139a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\c7462f7b50bf500abe415e7abb4fe81e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\c7462f7b50bf500abe415e7abb4fe81e\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\039c0f07923c8d30bb2207a962aa6e41\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -367,8 +369,6 @@ MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Tudor\.gradle\caches
 MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Tudor\.gradle\caches\transforms-3\512be8c316b7d5bf4cee6609a3f35b00\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Tudor\.gradle\caches\transforms-3\a3936ecd902ad0ee3c04e1cf650dcb94\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Tudor\.gradle\caches\transforms-3\a3936ecd902ad0ee3c04e1cf650dcb94\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\1ab065208eeffa4b722f2e26f953b27a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\1ab065208eeffa4b722f2e26f953b27a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\751f970275850a39f1cf4d08f9593636\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\751f970275850a39f1cf4d08f9593636\transformed\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tudor\.gradle\caches\transforms-3\d17b484f9609e8229b792b79e057864b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44

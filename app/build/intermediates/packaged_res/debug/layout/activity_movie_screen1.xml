@@ -6,4 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".MovieScreen1">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclevi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:itemCount="5"
+        tools:listitem="@layout/card_view_design" />
 </androidx.constraintlayout.widget.ConstraintLayout>

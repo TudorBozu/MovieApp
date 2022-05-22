@@ -2815,6 +2815,7 @@ id image
 id imageView
 id imageView2
 id imageView3
+id imageview
 id immediateStop
 id included
 id info
@@ -2940,6 +2941,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclevi
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3186,6 +3188,7 @@ layout activity_register
 layout activity_splash_screen
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
+layout card_view_design
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3282,6 +3285,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw keep
+string API_key
 string Button1
 string Button2
 string RepetPassword
