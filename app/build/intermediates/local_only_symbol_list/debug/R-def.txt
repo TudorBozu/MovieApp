@@ -23,6 +23,8 @@ drawable trasparent_button
 id Button_redirect_register
 id EditPass
 id EditPass2
+id Movie_relese_date
+id Movie_relese_score
 id btnF
 id btnR
 id btnfor
@@ -33,8 +35,11 @@ id edpaslog
 id imageView
 id imageView2
 id imageView3
+id imagemovie
 id imageview
 id log
+id movie_details_text
+id movietext1_details
 id recyclevi
 id textView2
 id textView3
@@ -43,6 +48,7 @@ id textView5
 layout activity_forgot_password
 layout activity_login_screen
 layout activity_main
+layout activity_movie_details
 layout activity_movie_screen1
 layout activity_register
 layout activity_splash_screen

@@ -25,6 +25,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Movie" >
         <activity
+            android:name="com.example.movie.MovieDetails"
+            android:exported="false" />
+        <activity
             android:name="com.example.movie.ForgotPassword"
             android:exported="false"
             android:label="@string/title_activity_forgot_password"

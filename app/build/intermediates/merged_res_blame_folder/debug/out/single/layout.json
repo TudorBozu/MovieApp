@@ -16,6 +16,10 @@
         "source": "D:\\Movie\\app\\src\\main\\res\\layout\\card_view_design.xml"
     },
     {
+        "merged": "D:\\Movie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_details.xml",
+        "source": "D:\\Movie\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
         "merged": "D:\\Movie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
         "source": "D:\\Movie\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
     },

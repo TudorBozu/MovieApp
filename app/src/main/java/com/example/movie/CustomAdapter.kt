@@ -40,7 +40,7 @@ class CustomAdapter(private val mList: List<Result>?,val aItemClikList:ItemClikL
         val imageView: ImageView = itemView.findViewById(R.id.imageview)
         init {
             ItemView.setOnClickListener{
-                aItemClikList.onItemClik(adapterPosition)
+                mList?.get(position)?.id?.let { it -> aItemClikList.onItemClik(it) }
             }
         }
     }

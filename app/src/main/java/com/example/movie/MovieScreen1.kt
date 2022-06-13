@@ -1,5 +1,6 @@
 package com.example.movie
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -50,8 +51,10 @@ class MovieScreen1 : AppCompatActivity() {
             Log.d("testlog1","Fail:${t?.message}")
             }
 
-            override fun onItemClik(position: Int) {
-                Toast.makeText(this@MovieScreen1,"Clik$position",Toast.LENGTH_SHORT).show()
+            override fun onItemClik(id: Int) {
+               val intent = Intent (this@MovieScreen1,MovieDetails ::class.java)
+                intent.putExtra("id",id)
+                startActivity(intent)
             }
         })
     }

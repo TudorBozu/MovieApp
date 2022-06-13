@@ -4,7 +4,7 @@
             "outputFile": "D:\\Movie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Tudor\\.gradle\\caches\\transforms-3\\afd1e359d0e488f3b91c17ad640e2192\\transformed\\appcompat-1.4.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\Tudor\\.gradle\\caches\\transforms-3\\cb65edfdb21ed1f43dd8a9b6dac0bdf5\\transformed\\appcompat-1.4.1\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

@@ -88,6 +88,10 @@
         "source": "D:\\Movie\\app\\src\\main\\res\\drawable\\trasparent_button.xml"
     },
     {
+        "merged": "D:\\Movie\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_movie_details.xml.flat",
+        "source": "D:\\Movie\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
         "merged": "D:\\Movie\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "D:\\Movie\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },

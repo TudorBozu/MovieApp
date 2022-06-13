@@ -2577,6 +2577,8 @@ id EditPass
 id EditPass2
 id FUNCTION
 id META
+id Movie_relese_date
+id Movie_relese_score
 id NO_DEBUG
 id SHIFT
 id SHOW_ALL
@@ -2815,6 +2817,7 @@ id image
 id imageView
 id imageView2
 id imageView3
+id imagemovie
 id imageview
 id immediateStop
 id included
@@ -2874,6 +2877,8 @@ id month_navigation_next
 id month_navigation_previous
 id month_title
 id motion_base
+id movie_details_text
+id movietext1_details
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
@@ -3183,6 +3188,7 @@ layout abc_tooltip
 layout activity_forgot_password
 layout activity_login_screen
 layout activity_main
+layout activity_movie_details
 layout activity_movie_screen1
 layout activity_register
 layout activity_splash_screen
